@@ -7,6 +7,9 @@ this is thrid commit m3
 this is f1 commit 3
 this is f1 commit 4
 this is f1 commit 5
+<<<<<<< HEAD
 this is f1 10
 thuis is f1 11
 thus us f1 12
+=======
+>>>>>>> master
