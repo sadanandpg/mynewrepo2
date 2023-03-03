@@ -1,5 +1,5 @@
-name: Tip Request
-description: Request a GitHub Tip from MishManners
+name: Generating new token
+description: Request a new token
 title: "to get new key"
 labels: "new key"
 assignees:
