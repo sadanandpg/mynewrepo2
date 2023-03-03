@@ -10,7 +10,7 @@ body:
     id: Name
     attributes:
       label: More information1
-      description: What is the name IP address?
+      
       
     validations:
       required: true
